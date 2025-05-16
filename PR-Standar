@@ -1,0 +1,57 @@
+✨ [Tipo] Título breve y descriptivo de los cambios
+
+📝 Descripción concisa de los cambios realizados.
+
+✅ Lista de verificación de los puntos clave abordados:
+   - [ ] Punto clave 1
+   - [ ] Punto clave 2
+   - [ ] ...
+
+🧪 Pruebas realizadas (si aplica):
+   - [ ] Prueba unitaria
+   - [ ] Prueba de integración
+   - [ ] Prueba manual
+   - [ ] ...
+
+🖼️ Capturas de pantalla (si aplica para cambios visuales).
+
+🙏 Consideraciones adicionales (opcional).
+Explicación de los elementos:
+
+✨ [Tipo]: Un emoji que indica la naturaleza del PR, seguido de una etiqueta breve. Algunos ejemplos:
+✨ feat: Nueva funcionalidad.
+🐛 fix: Corrección de un error.
+♻️ refactor: Refactorización de código (sin cambios en la funcionalidad).
+💄 style: Cambios en el estilo visual.
+🏗️ chore: Tareas de mantenimiento, configuración, etc.
+📚 docs: Cambios en la documentación.
+🧪 test: Adición o modificación de pruebas.
+🚀 perf: Mejoras de rendimiento.
+⏪️ revert: Revertir un commit anterior.
+Título breve y descriptivo: Un resumen conciso de los cambios.
+📝 Descripción concisa: Una explicación breve pero clara de lo que se ha implementado o corregido.
+✅ Lista de verificación: Una lista de los puntos principales que se abordan en este PR. Esto ayuda a los revisores a entender el alcance y a verificar que todo esté cubierto. Usa [ ] para indicar que aún no está hecho y [x] cuando esté completado.
+🧪 Pruebas realizadas: Indica qué tipos de pruebas se han realizado para asegurar la calidad de los cambios.
+🖼️ Capturas de pantalla: Si el PR incluye cambios visuales, incluye capturas de pantalla del antes y el después para facilitar la revisión.
+🙏 Consideraciones adicionales: Cualquier información extra que los revisores deban tener en cuenta.
+Ejemplo de un PR:
+
+✨ feat: Implementar la página de perfil de usuario
+
+📝 Se añadió la estructura básica y la visualización de la información del perfil del usuario.
+
+✅ Lista de verificación de los puntos clave abordados:
+   - [x] Crear componente de perfil.
+   - [x] Obtener datos del usuario desde el servicio.
+   - [x] Mostrar nombre de usuario, email y fecha de creación.
+   - [ ] Añadir opción para editar el perfil.
+
+🧪 Pruebas realizadas:
+   - [x] Prueba unitaria para el componente de perfil.
+   - [ ] Prueba de integración con el servicio de usuarios.
+
+🖼️ Capturas de pantalla:
+   [Incluir aquí enlaces o imágenes de la página de perfil]
+
+🙏 Consideraciones adicionales:
+   - La funcionalidad de edición del perfil se implementará en un PR posterior.
